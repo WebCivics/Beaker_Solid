@@ -1,3 +1,8 @@
+# This repo has both Beaker & solid Node Server (not integrated yet). 
+
+WIP
+
+
 Beaker Browser
 ======
 [![Backers on Open Collective](https://opencollective.com/beaker/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/beaker/sponsors/badge.svg)](#sponsors)
