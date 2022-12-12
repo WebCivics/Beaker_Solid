@@ -162,7 +162,7 @@ A list of existing 'solid servers' can be found here [SolidServers.org solid-con
 
 # Beaker Browser
 ======
-[![See Beaker Browser Readme](Beaker_README.md)]
+[See Beaker Browser Readme](Beaker_README.md)
 
 # Questions and Chat Environment
 Please feel welcome to reach-out via the [Web Civics Discord Group](https://discord.gg/HX7W4gY45N) if there's any questions, problems; or better yet - if you're interested in getting involved!!!  
